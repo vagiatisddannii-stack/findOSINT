@@ -1,4 +1,4 @@
-fidnOSINT is a basic OSINT tool that does this thinks.
+findOSINT is a basic OSINT tool that does this thinks.
 
 It finds domains IP's.
 It finds open ports of the domain IP the tool finds.
